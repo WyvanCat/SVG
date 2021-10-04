@@ -1,0 +1,23 @@
+<svg width="320" height="240" fill="none" 
+    xlmns="http://www.w3.org/2000/svg">
+    <symbol id="card" viewbox="0 0 320 240">
+        <rect width="310" height="223" rx="20" ry="20" fill="#E7C449"/>
+        <rect width="310" height="43" y="35" fill="#7D705F"/>
+        <line x1="30" y1="110" x2="83" y2="110" 
+        style="stroke:#F5E8B3;stroke-width:12;stroke-linecap:round" />
+        <line x1="107" y1="110" x2="160" y2="110" 
+        style="stroke:#F5E8B3;stroke-width:12;stroke-linecap:round" />
+        <line x1="30" y1="135" x2="36" y2="135" 
+        style="stroke:#F5E8B3;stroke-width:12;stroke-linecap:round" />
+        <line x1="59" y1="135" x2="71" y2="135" 
+        style="stroke:#F5E8B3;stroke-width:12;stroke-linecap:round" />
+        <line x1="94" y1="135" x2="100" y2="135" 
+        style="stroke:#F5E8B3;stroke-width:12;stroke-linecap:round" />
+        <line x1="123" y1="135" x2="137" y2="135" 
+        style="stroke:#F5E8B3;stroke-width:12;stroke-linecap:round" />
+        <line x1="159" y1="135" x2="160" y2="135" 
+        style="stroke:#F5E8B3;stroke-width:12;stroke-linecap:round" />
+        <circle cx="220" cy="170" r="30" fill="#C83927"/>
+        <circle cx="255" cy="170" r="30" fill="#345EA2"/>
+    </symbol>
+</svg>
